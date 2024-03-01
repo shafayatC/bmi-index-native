@@ -10,8 +10,10 @@
     "test": "jest"
   },
   "dependencies": {
+    "@react-native-community/cli": "^12.3.6",
     "react": "18.2.0",
-    "react-native": "0.73.5"
+    "react-native": "0.73.5",
+    "react-native-eject": "^0.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
